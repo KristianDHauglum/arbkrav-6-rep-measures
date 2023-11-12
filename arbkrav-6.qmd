@@ -1,5 +1,5 @@
 ---
-title: "Effects of different trainingvolume on strength and hypertrophy"
+title: "Sammenlikning av lavt og moderat styrketreningsvolum"
 format: html
 editor: visual
 editor_options: 
